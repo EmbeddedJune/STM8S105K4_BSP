@@ -1,0 +1,6 @@
+[
+    {
+        "name": "STM8 SDCC Embedded",
+        "toolchainFile": "${workspaceFolder}/tools/toolchain.cmake"
+    }
+]

@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"C_Cpp.default.compilerPath": "${workspaceFolder}/tools/sdcc/bin/sdcc",
+		"cmake.cmakePath": "/Users/choeseongjun/Library/xPacks/@xpack-dev-tools/cmake/3.23.5-1.1/.content/bin/cmake",
+		"cmake.configureArgs": [
+			"-DSTM8_TOOLCHAIN_DIR=/Users/choeseongjun/Desktop/stm8s_black/tools/sdcc",
+			"-DCMAKE_MAKE_PROGRAM=/usr/bin/make"
+		],
+		"cmake.additionalKits": [
+			".vscode/cmake-kits.json"
+		],
+		"cmake.generator": "",
+		"files.associations": {
+			"stm8s105_bsp.h": "c"
+		}
+	}
+}

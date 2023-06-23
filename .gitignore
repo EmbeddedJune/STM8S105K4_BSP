@@ -1,0 +1,7 @@
+build
+tools/sdcc
+tools/.DS_Store
+xpacks
+.DS_Store
+LICENSE
+package.json
